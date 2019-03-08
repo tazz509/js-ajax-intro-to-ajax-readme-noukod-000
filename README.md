@@ -1,4 +1,4 @@
-JavaScript XHR
+JavaScript XHR.
 ---
 
 ## Objectives
